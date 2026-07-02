@@ -1,6 +1,6 @@
 # Sentiment-Analysis-System-Using-Recurrent-Neural-Networks-RNN-
 
-# Sentiment Analysis System Using Recurrent Neural Networks (RNN)
+
 
 ## Overview
 
